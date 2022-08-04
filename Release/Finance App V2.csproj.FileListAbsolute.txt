@@ -1,0 +1,38 @@
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\App.config
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\Finance App V2.exe.config
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\Finance App V2.exe
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\Finance App V2.pdb
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\Newtonsoft.Json.dll
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\bin\Release\Newtonsoft.Json.xml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.csproj.AssemblyReference.cache
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\Content\ContentPage.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Accounts.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Home.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\LogIn.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\LookUp.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Portfolio.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\PortfolioTransactions.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Register.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Transactions.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\MainWindow.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\App.g.cs
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2_MarkupCompile.cache
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2_MarkupCompile.lref
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\Content\ContentPage.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Accounts.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Home.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\LogIn.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\LookUp.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Portfolio.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\PortfolioTransactions.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Register.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Core\UserPages\Transactions.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\MainWindow.baml
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.g.resources
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance_App_V2.Properties.Resources.resources
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.csproj.GenerateResource.cache
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.csproj.CoreCompileInputs.cache
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.csproj.CopyComplete
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.exe
+C:\Users\junyo\source\repos\Finance App V2\Finance App V2\obj\Release\Finance App V2.pdb
